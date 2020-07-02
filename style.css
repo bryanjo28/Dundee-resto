@@ -1,0 +1,12 @@
+.navbar-default .navbar-brand {
+    color: blue;
+}
+
+.nav-footer a, .nav>li>a {
+    color: blue;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: red;
+    background-color: transparent;
+}
